@@ -11,3 +11,8 @@ function Concatenate() //This function prints the variable text in the html elem
     string3 += " it looks delicious"; //concatenates the new string whit the old string from string3.
     document.getElementById("concatenate").innerHTML = string3; //prints the variable text in the html element whit ID concatenate.
 } 
+
+function Sum(A, B)
+{
+    document.getElementById("sum").innerHTML = A + B;
+}
