@@ -8,3 +8,4 @@ document.write(sentence); // Prints the valeu of sentence to the screen.
 
 var sum = 503 + 2234; // Declears an exspresion in a variable.
 document.write(sum);  // Prints the value of sum to the screen.
+
