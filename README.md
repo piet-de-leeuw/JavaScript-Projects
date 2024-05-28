@@ -5,6 +5,7 @@ Here you find my JavaScript projects from [The Tech Academy](https://www.learnco
 - [Project1_expressions_alert](#project1_expressions_alert)
 - [Project2_functions](#project2_functions)
 - [Project3_math_operators](project3_math_operations)
+- [Project4_dictionaries](project4_dictionaries)
 
 ### Project1_expressions_alert
 This project contains a some small JavaScript exercises like concatenate strings and printing massages to the screen.
@@ -14,4 +15,7 @@ This project contains a some small exercises, using functions whit Javascript an
 
 ### Project3_math_operations
 In this project I learnt the basics of math operations in JavaScript.
+
+### Project4_dictionaries
+This project contains two little exercises with dictionarys.
 
