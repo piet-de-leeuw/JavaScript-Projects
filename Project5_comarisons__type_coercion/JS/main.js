@@ -4,18 +4,18 @@ function Coercion()
     document.getElementById("coercion").innerHTML = 5 + "ten" + 5 + "10" // Using coercion to concatinate numbers and strings.
 }
 
-function WhichType() // returns the type of the var a.
+function WhichType() // Returns the type of the var a.
 {
     var a = "Apple";
     document.getElementById("type").innerHTML = typeof a;
 }
 
-function MyFunction() // output NaN because you cand divide 0 by 0.
+function MyFunction() // Output NaN because you cand divide 0 by 0.
 {
     document.getElementById("test").innerHTML = 0/0;
 }
 
-function Nan() // using isNaN() (checks if the given atribute is a number) to display true and false. 
+function Nan() // Using isNaN() (checks if the given atribute is a number) to display true and false. 
 {
     var b = isNaN('is this a not a number?'); //true, beacause 'is this a not a number?' is this a not a number.' 
     var c = isNaN(5); // false, because 5 is a number
@@ -46,7 +46,7 @@ function Equal() // Determen if left from == is equal to right from ==. output t
     document.getElementById("not-equal").innerHTML = 3 == 12;
 }
 
-function TripleEqual() // same as equal() but checks also if the data type is the same.
+function TripleEqual() // Same as equal() but checks also if the data type is the same.
 {
     var f = 25;
     var g = 25;
@@ -60,13 +60,13 @@ function TripleEqual() // same as equal() but checks also if the data type is th
     document.getElementById("different-valeu").innerHTML = f === j;
 }
 
-function And() // determans if both statements left and right of the operator are treu.
+function And() // determines if both statements left and right of the operator are treu.
 {
     document.getElementById("and-true").innerHTML = 100 > 45 && 10 < 45; 
     document.getElementById("and-false").innerHTML = 100 < 45 && 10 < 45;
 }
 
-function Or() // determans if at least statements left and right of the operator are treu.
+function Or() // determines if at least statements left and right of the operator are treu.
 {
     document.getElementById("or-true").innerHTML = 345 < 240 || 5 < 25;  //Even thow one statement is fals it returns treu because the richt statment is true.
     document.getElementById("or-false").innerHTML = 345 < 240 || 5 > 25;
