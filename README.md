@@ -7,6 +7,7 @@ Here you find my JavaScript projects from [The Tech Academy](https://www.learnco
 - [Project3_math_operators](#project3_math_operations)
 - [Project4_dictionaries](#project4_dictionaries)
 - [Project5_comarisons__type_coercion](#project5_comarisons__type_coercion)
+- [Project6_ternary_operators_constructors](#project6_ternary_operators_constructors)
 ### Project1_expressions_alert
 This project contains a some small JavaScript exercises like concatenate strings and printing massages to the screen.
 
@@ -21,4 +22,7 @@ This project contains two little exercises with dictionarys.
 
 ### Project5_comarisons__type_coercion
 This project contains exercises with Data types and operators.
+
+### Project6_ternary_operators_constructors
+In this project I made aexercises with the Ternary operator, constructor functions and nested functions. 
 
