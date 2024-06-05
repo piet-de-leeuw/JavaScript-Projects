@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Countdown Timer</title>
+    </head>
+
+    <link rel="stylesheet" type="text/css" href="./CSS/main.css">
+    <body>
+        <!-- Countdown Timer -->
+        <div class="center">
+            <p><b>How many seconds woild you like to set your alarm for?</b></p>
+            <input id="seconds" value="">
+            <button onclick="Countdown()">Click here!</button>
+            <p id="timer"></p>
+        </div>
+        
+        <!-- slide Show -->
+        <div class="slideshow-container">
+
+            <div class="my-slides fade"> 
+                <div class="slide-text">1/3</div>
+                <img class="slide-image" src="./images/car1.jpg" alt="car1">
+                <div class="caption-text">Car 1</div>
+            </div>
+
+            <div class="my-slides fade">
+                <div class="slide-text">2/3</div>
+                <img class="slide-image" src="./images/car2.jpg" alt="car2">
+                <div class="caption-text">Car 2</div>
+            </div>
+
+            <div class="my-slides fade">
+                <div class="slide-text">3/3</div>
+                <img class="slide-image" src="./images/car3.jpg" alt="car3">
+                <div class="caption-text">Car 3</div>
+            </div>
+
+            <div class="next" onclick="NextSlide(1)">&#10095;</div>
+            <div class="prev" onclick="NextSlide(-1)">&#10094;</div>
+
+            <div class="center">
+            <span class="dot" onclick="CurrentSlide(1)"></span>
+            <span class="dot" onclick="CurrentSlide(2)"></span>
+            <span class="dot" onclick="CurrentSlide(3)"></span>
+            </div>
+        </div>
+
+        <script src="./JS/main.js"></script>
+    </body>
+</html>
+
+
