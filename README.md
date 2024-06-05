@@ -9,6 +9,7 @@ Here you find my JavaScript projects from [The Tech Academy](https://www.learnco
 - [Project5_comarisons__type_coercion](#project5_comarisons__type_coercion)
 - [Project6_ternary_operators_constructors](#project6_ternary_operators_constructors)
 - [Project7_scope_time_function](#project7_scope_time_function)
+- [Project8_string_number_methods](#project8_string_number_methods)
 ### Project1_expressions_alert
 This project contains a some small JavaScript exercises like concatenate strings and printing massages to the screen.
 
@@ -28,5 +29,8 @@ This project contains exercises with Data types and operators.
 In this project I made aexercises with the Ternary operator, constructor functions and nested functions. 
 
 ### Project7_scope_time_function
-In this project I dit some exercises to see how scope workes, and how if if else and else functions work.
+In this project I did some exercises to see how scope workes, and how if if else and else functions work.
+
+### Project8_string_number_methods
+In this project I did some exercises with methods from string and number like .concat() .slice() .search() .toString() .toFixed() etc.
 
