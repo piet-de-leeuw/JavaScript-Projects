@@ -11,6 +11,7 @@ Here you find my JavaScript projects from [The Tech Academy](https://www.learnco
 - [Project7_scope_time_function](#project7_scope_time_function)
 - [Project8_string_number_methods](#project8_string_number_methods)
 - [Project9_countdown_slideshow](#project9_countdown_slideshow)
+- [Project10_loops_arrays](#project10_loops_arrays)
 ### Project1_expressions_alert
 This project contains a some small JavaScript exercises like concatenate strings and printing massages to the screen.
 
@@ -37,3 +38,15 @@ In this project I did some exercises with methods from string and number like .c
 
 ### Project9_countdown_slideshow
 In this project I made a countdown timer and a slideshow. I used a combination of HTML CSS and JavaScript.
+
+### Project10_loops_arrays
+In this project i dit exercises with:
+- While lppo
+- For loop
+- Arrays
+- constant
+- let
+- return
+- break
+- and continue
+
