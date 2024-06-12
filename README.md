@@ -13,6 +13,7 @@ Here you find my JavaScript projects from [The Tech Academy](https://www.learnco
 - [Project9_countdown_slideshow](#project9_countdown_slideshow)
 - [Project10_loops_arrays](#project10_loops_arrays)
 - [TicTacToe](#tictactoe)
+- [Calculator](#calculator)
 ### Project1_expressions_alert
 This project contains a some small JavaScript exercises like concatenate strings and printing massages to the screen.
 
@@ -53,3 +54,6 @@ In this project i dit exercises with:
 
 ### TicTacToe
 In this project we created a simple TicTacToe game, thats playable in the browser. We used JavaScript HTML and CSS.
+
+### Calculator
+In this project we created a basic calculator, thats usable in the browser. We used JavaScript HTML and CSS.
