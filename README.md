@@ -14,6 +14,7 @@ Here you find my JavaScript projects from [The Tech Academy](https://www.learnco
 - [Project10_loops_arrays](#project10_loops_arrays)
 - [TicTacToe](#tictactoe)
 - [Calculator](#calculator)
+- [Pizza_Project](#pizza_project)
 ### Project1_expressions_alert
 This project contains a some small JavaScript exercises like concatenate strings and printing massages to the screen.
 
@@ -57,3 +58,6 @@ In this project we created a simple TicTacToe game, thats playable in the browse
 
 ### Calculator
 In this project we created a basic calculator, thats usable in the browser. We used JavaScript HTML and CSS.
+
+### Pizza_Project
+In this project I have build a menu were people can order pizzas and see the cost. I used HTML, CSS and JavaScript.
