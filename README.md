@@ -66,14 +66,14 @@ In this project we created a basic calculator, thats usable in the browser. We u
 ### Pizza_Project
 In this project I have build a menu were people can order pizzas and see the cost. I used HTML, CSS and JavaScript.
 
-### React_Projects
-In this project I dit some exsercices with React
-
-### todo_app
-In this project I build a small to do app.
-
 ### AJAX
 In this project i setup a simple AJAX request.
 
 ### jQuery
 In this project i dit some exsercices with jQuery.
+
+### React_Projects
+In this project I dit some exsercices with React
+
+### todo_app
+In this project I build a small to do app.
