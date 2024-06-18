@@ -18,6 +18,7 @@ Here you find my JavaScript projects from [The Tech Academy](https://www.learnco
 - [AJAX](#ajax)
 - [jQuery](#jquery)
 - [React_Projects](#react_projects)
+- [todo_app](#todo_app)
 ### Project1_expressions_alert
 This project contains a some small JavaScript exercises like concatenate strings and printing massages to the screen.
 
@@ -68,7 +69,8 @@ In this project I have build a menu were people can order pizzas and see the cos
 ### React_Projects
 In this project I dit some exsercices with React
 
-###
+### todo_app
+In this project I build a small to do app.
 
 ### AJAX
 In this project i setup a simple AJAX request.
