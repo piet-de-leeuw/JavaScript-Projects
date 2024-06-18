@@ -17,6 +17,7 @@ Here you find my JavaScript projects from [The Tech Academy](https://www.learnco
 - [Pizza_Project](#pizza_project)
 - [AJAX](#ajax)
 - [jQuery](#jquery)
+- [React_Projects](#react_projects)
 ### Project1_expressions_alert
 This project contains a some small JavaScript exercises like concatenate strings and printing massages to the screen.
 
@@ -63,6 +64,11 @@ In this project we created a basic calculator, thats usable in the browser. We u
 
 ### Pizza_Project
 In this project I have build a menu were people can order pizzas and see the cost. I used HTML, CSS and JavaScript.
+
+### React_Projects
+In this project I dit some exsercices with React
+
+###
 
 ### AJAX
 In this project i setup a simple AJAX request.
