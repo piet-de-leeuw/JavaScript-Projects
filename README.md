@@ -48,7 +48,7 @@ In this project I made a countdown timer and a slideshow. I used a combination o
 
 ### Project10_loops_arrays
 In this project i dit exercises with:
-- While lppo
+- While loop
 - For loop
 - Arrays
 - constant
@@ -58,22 +58,25 @@ In this project i dit exercises with:
 - and continue
 
 ### TicTacToe
-In this project we created a simple TicTacToe game, thats playable in the browser. We used JavaScript HTML and CSS.
+In this project we created a simple TicTacToe game, thats playable in the browser. I used JavaScript, HTML and CSS.
+The game restarts automaticly after you won, you lose or whenn there was a tie. 
 
 ### Calculator
-In this project we created a basic calculator, thats usable in the browser. We used JavaScript HTML and CSS.
+In this project we created a basic calculator, thats usable in the browser. We used JavaScript, HTML and CSS.
+It can be used for operations like: plus, min, multiply and divide.
 
 ### Pizza_Project
 In this project I have build a menu were people can order pizzas and see the cost. I used HTML, CSS and JavaScript.
+Its a website with multiple sections of toppings. It automatically shows you the price and what you ordered when you hit the order button.
 
 ### AJAX
-In this project i setup a simple AJAX request.
+In this project I setup a simple AJAX request.
 
 ### jQuery
-In this project i dit some exsercices with jQuery.
+In this project I did some exsercices with jQuery.
 
 ### React_Projects
 In this project I dit some exsercices with React
 
 ### todo_app
-In this project I build a small to do app.
+In this project I made a simple to-do app.
